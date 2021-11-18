@@ -1,0 +1,19 @@
+.cuerpo{
+  margin: 0;
+  padding-top: 30px;
+}
+.sumaNumeros{
+  margin:0;
+  padding: 0;
+  border: 1px solid;
+  width: 145px;
+  height: 150px;
+}
+.sumaNumeros h2{
+  color:brown;
+  text-align: center;
+}
+.sumaNumeros button{
+  margin-left: 36px;
+  text-align: center;
+}
